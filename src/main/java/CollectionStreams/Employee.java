@@ -1,3 +1,5 @@
+package CollectionStreams;
+
 public class Employee {
     
     int id;
